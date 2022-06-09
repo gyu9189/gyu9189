@@ -1,16 +1,15 @@
-### Hi there 👋
+## Welcome
 
-<!--
-**gyu9189/gyu9189** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+@ 22년 목표 !!
 
-Here are some ideas to get you started:
+Salesforce admin 자격증 취득 // 기한 6월
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+취업
+
+------------------------------------------------------
+
+@ 진행중인 Project !!
+
+1. lol mbti web 개발 ( ~ ing )
+
+1-1. 6월중으로 화면 디자인 & 레이아웃 & DB 설계 
