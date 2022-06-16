@@ -13,6 +13,9 @@ Salesforce admin 자격증 취득 // 기한 6월
 1. lol mbti web 개발 ( ~ ing )
 
 화면 디자인 [✔]
+
 레이아웃 [ing]
+
 DB 설계 [✔]
+
 프로젝트 설정 [✔]
