@@ -2,7 +2,7 @@
 
 @ 22년 목표 !!
 
-Salesforce admin 자격증 취득 // 기한 6월
+Salesforce admin 자격증 취득 // 기한 6월 // 6월 20일 시험 화이팅!!!
 
 취업
 
