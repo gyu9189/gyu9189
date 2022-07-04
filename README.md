@@ -5,7 +5,7 @@
 
 Salesforce admin 자격증 취득 [✔]
 
-취업 / DKBMC 입사 [~]
+취업 / DKBMC 입사 [✔]
 
 ------------------------------------------------------
 
@@ -14,7 +14,7 @@ Salesforce admin 자격증 취득 [✔]
 
 1. Salesforce Admin [✔]
 
-2. Salesforce Dveloper [✔]
+2. Salesforce Dveloper [~]
 
 ------------------------------------------------------
 
