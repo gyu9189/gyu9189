@@ -14,7 +14,7 @@ Salesforce admin 자격증 취득 [✔]
 
 1. Salesforce Admin [✔]
 
-2. Salesforce Dveloper
+2. Salesforce Dveloper [✔]
 
 ------------------------------------------------------
 
