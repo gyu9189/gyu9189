@@ -14,19 +14,6 @@ Salesforce admin 자격증 취득 [✔]
 
 1. Salesforce Admin [✔]
 
-2. Salesforce Dveloper I [~ ing]
+2. Salesforce Dveloper I [~ ing 7월 기한]
 
 ------------------------------------------------------
-
-@ 진행중인 Project !! (  무기한 연장 ...)
-----------------------------------------------------------
-
-1. lol mbti web 개발 ( ~ ing )
-
-화면 디자인 [✔]
-
-레이아웃 [ing]
-
-DB 설계 [✔]
-
-프로젝트 설정 [✔]
