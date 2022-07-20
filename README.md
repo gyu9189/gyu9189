@@ -16,6 +16,7 @@
 
 3. Salesforce Apex
 
+4. Salesforce Trigger
 
 ------------------------------------------------------
 @ Salesforce 자격증
