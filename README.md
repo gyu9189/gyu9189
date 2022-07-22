@@ -25,6 +25,6 @@
 
 1. Salesforce Admin [✔]
 
-2. Salesforce Dveloper I [~ ing 7월 기한]
+2. Salesforce Dveloper I [~ ing 8월 기한]
 
 ------------------------------------------------------
