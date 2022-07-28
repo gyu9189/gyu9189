@@ -25,6 +25,6 @@
 
 1. Salesforce Admin [✔]
 
-2. Salesforce PDI [~ ing 8월 기한]
+2. Salesforce PDI [8/4 ~ 8/5]
 
 -------------------------------------------------------
