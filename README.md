@@ -25,6 +25,6 @@
 
 1. Salesforce Admin [✔]
 
-2. Salesforce PDI [8/2]
+2. Salesforce PDI [8/5]
 
 -------------------------------------------------------
