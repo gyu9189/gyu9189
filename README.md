@@ -6,6 +6,8 @@
 
 - Salesforce admin 자격증 취득 [✔]
 
+- Salesforce Platform Developer I 자격증 취득[✔]
+
 -------------------------------------------------------
 @ 공부중
 --------
@@ -25,6 +27,6 @@
 
 1. Salesforce Admin [✔]
 
-2. Salesforce PDI [8/5]
+2. Salesforce PDI [✔]
 
 -------------------------------------------------------
