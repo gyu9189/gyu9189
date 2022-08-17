@@ -18,11 +18,13 @@
 
 2. Salesforce Visualforce
 
-3. Salesforce Apex
+3. Salesforce Aura
 
-4. Salesforce Trigger
+4. Salesforce Apex
 
-5. SOQL & SOSL
+5. Salesforce Trigger
+
+6. SOQL & SOSL
 -------------------------------------------------------
 @ Salesforce 자격증
 ---------------------
