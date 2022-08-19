@@ -8,7 +8,7 @@
 
 - Salesforce Platform Developer I 자격증 취득[✔]
 
-- Salesforce AppBuilder [ 내일???? ] 
+- Salesforce AppBuilder [ ~ ] 
 
 -------------------------------------------------------
 @ 공부중
