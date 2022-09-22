@@ -8,7 +8,7 @@
 
 - Salesforce Platform Developer I 자격증 취득[✔]
 
-- Salesforce AppBuilder [ ~ ] 
+- SQLD 취득
 
 -------------------------------------------------------
 @ 공부중
@@ -18,15 +18,17 @@
 
 2. Salesforce Visualforce
 
-3. Salesforce Aura
+3. Salesforce Aura 잠깐 빠지시고
 
 4. Salesforce Apex
 
 5. Salesforce Trigger
 
-6. SOQL & SOSL
+6. Salesforce LWC
+
+7 SOQL
 -------------------------------------------------------
-@ Salesforce 자격증
+@ 자격증
 ---------------------
 
 1. Salesforce Admin [✔]
