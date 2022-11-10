@@ -14,17 +14,17 @@
 @ 공부중
 --------
 
-1. Salesforce Admin
+1. Salesforce Admin 양호
 
 2. Salesforce Visualforce
 
-3. Salesforce Aura 잠깐 빠지시고
+3. Salesforce Aura 양호
 
-4. Salesforce Apex
+4. Salesforce Apex 양호
 
-5. Salesforce Trigger
+5. Salesforce Trigger 
 
-6. Salesforce LWC
+6. Salesforce LWC 아주 나이스
 
 7 SOQL
 -------------------------------------------------------
